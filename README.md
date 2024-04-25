@@ -17,9 +17,13 @@ With the help of this project we can play subway surfer with the help of your ha
 
 
 **How to run this project?**
+
 Step 1: Just clone this repository
+
 Step 2: Open the command prompt and direct to the directory
+
 Step 3: Activate virtual environment with the help of ./venv/Scripts/activate
+
 Step 4: Now install the libraries if already not installed by entering these commands:
 pip install opencv-python, pip install cvzone, pip install pynput, pip install mediapipe
 Step 5: Run the command python subway_surfer_gesturecontrol.py
