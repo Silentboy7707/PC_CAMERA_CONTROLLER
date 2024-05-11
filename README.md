@@ -1,4 +1,4 @@
-# Subway_Surfer_CV
+# PC GAME CONTROLLER using Camera
 
 With the help of this project we can play subway surfer with the help of your hand movements.
 
